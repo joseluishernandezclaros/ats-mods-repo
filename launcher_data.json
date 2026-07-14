@@ -1,0 +1,13 @@
+{
+  "launcher_version": "1.0",
+  "launcher_url": "https://github.com/.../launcher_nuevo.exe",
+  "mods": [
+    {
+      "id": "kw900_lyb",
+      "nombre": "Kenworth W900 LYB",
+      "version": "1.2",
+      "url_descarga": "https://github.com/.../mod.scs",
+      "imagen_url": "https://raw.githubusercontent.com/.../foto.jpg"
+    }
+  ]
+}
