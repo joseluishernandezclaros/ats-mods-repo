@@ -10,6 +10,15 @@
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_SKINS_Y_MODIFICACIONES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
     },
+     {
+      "id": "pack_camiones_1",
+      "nombre": "Pack Camiones 1",
+      "version": "1.0",
+      "archivo_scs": "PACK_DE_CAMIONES_1.scs",
+      "md5": "e7214a73c76b278b3e300ddcf9a8d435",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_CAMIONES_1.scs",
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
+    },
     {
       "id": "pack_camiones_2",
       "nombre": "Pack Camiones 2",
@@ -29,12 +38,12 @@
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
     },
     {
-      "id": "pack_camiones_1",
-      "nombre": "Pack Camiones 1",
+      "id": "pack_rines",
+      "nombre": "Pack de Rines",
       "version": "1.0",
-      "archivo_scs": "PACK_DE_CAMIONES_1.scs",
-      "md5": "e7214a73c76b278b3e300ddcf9a8d435",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_CAMIONES_1.scs",
+      "archivo_scs": "PACK_DE_RINES.scs",
+      "md5": "3e217116b49b320e399ff144e4f0b2a5",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_RINES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
     },
     {
@@ -44,15 +53,6 @@
       "archivo_scs": "MINI_PACK_DE_MODS.scs",
       "md5": "3cfd4e05906026bedd68848af5f5c7b0",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/MINI_PACK_DE_MODS.scs",
-      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
-    },
-    {
-      "id": "pack_rines",
-      "nombre": "Pack de Rines",
-      "version": "1.0",
-      "archivo_scs": "PACK_DE_RINES.scs",
-      "md5": "3e217116b49b320e399ff144e4f0b2a5",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_RINES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
     },
     {
