@@ -26,7 +26,7 @@
       "archivo_scs": "PACK_DE_BUSES.scs",
       "md5": "adc65a22a01e0f46ac1a82d27e84d24b",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_BUSES.scs",
-      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/buses.png"
     },
     {
       "id": "pack_remolques",
@@ -44,7 +44,7 @@
       "archivo_scs": "PACK_DE_RINES.scs",
       "md5": "3e217116b49b320e399ff144e4f0b2a5",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_RINES.scs",
-      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/rines.png"
     },
     {
       "id": "mini_pack",
@@ -53,7 +53,7 @@
       "archivo_scs": "MINI_PACK_DE_MODS.scs",
       "md5": "3cfd4e05906026bedd68848af5f5c7b0",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/MINI_PACK_DE_MODS.scs",
-      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/minipack.png"
     },
     {
       "id": "trafico_colombiano",
@@ -62,7 +62,7 @@
       "archivo_scs": "TRAFICO_COLOMBIANO.scs",
       "md5": "2f2188a348ffde516ba66ebb8f400928",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/TRAFICO_COLOMBIANO.scs",
-      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
+      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/trafico.png"
     },
      {
       "id": "pack_skins",
