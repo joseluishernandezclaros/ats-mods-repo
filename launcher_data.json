@@ -13,7 +13,7 @@
       "version": "1.0",
       "archivo_scs": "PACK_DE_CAMIONES_1.scs",
       "md5": "e7214a73c76b278b3e300ddcf9a8d435",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_CAMIONES_1.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_1.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones1.png"
     },
     {
@@ -22,7 +22,7 @@
       "version": "1.0",
       "archivo_scs": "PACK_DE_CAMIONES_2.scs",
       "md5": "cab1748f90cfa026da52e309d8e36d29",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_CAMIONES_2.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_2.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones2.png"
     },
     {
@@ -31,7 +31,7 @@
       "version": "1.0",
       "archivo_scs": "PACK_DE_BUSES.scs",
       "md5": "adc65a22a01e0f46ac1a82d27e84d24b",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_BUSES.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_BUSES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/buses.png"
     },
     {
@@ -40,7 +40,7 @@
       "version": "1.0",
       "archivo_scs": "PACK_DE_REMOLQUES.scs",
       "md5": "7f2e4ee7c32f1129a67926e1bc381e94",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_REMOLQUES.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_REMOLQUES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/remolques.png"
     },
     {
@@ -49,7 +49,7 @@
       "version": "1.0",
       "archivo_scs": "PACK_DE_RINES.scs",
       "md5": "3e217116b49b320e399ff144e4f0b2a5",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_RINES.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_RINES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/rines.png"
     },
     {
@@ -58,7 +58,7 @@
       "version": "1.0",
       "archivo_scs": "MINI_PACK_DE_MODS.scs",
       "md5": "3cfd4e05906026bedd68848af5f5c7b0",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/MINI_PACK_DE_MODS.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/MINI_PACK_DE_MODS.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/minipack.png"
     },
     {
@@ -76,7 +76,7 @@
       "version": "1.0",
       "archivo_scs": "PACK_DE_SKINS_Y_MODIFICACIONES.scs",
       "md5": "2252de9ce48524889c1e5d4ed455e497",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.0/PACK_DE_SKINS_Y_MODIFICACIONES.scs",
+      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_SKINS_Y_MODIFICACIONES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
     }
   ]
