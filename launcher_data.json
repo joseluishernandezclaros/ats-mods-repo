@@ -7,6 +7,7 @@
   "carplay_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/CARPLAY.zip",
   "reshade_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/RESHADE.zip",
   "blinker_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/DIRECCIONALES.zip",
+  "emisoras_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/live_streams.sii",
   "mods": [
      {
       "id": "pack_camiones_1",
