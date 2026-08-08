@@ -6,6 +6,7 @@
   "tutorial_url": "https://youtu.be/obMPejKPaRE?si=7pr4uaxfksfGCBjS",
   "carplay_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/CARPLAY.zip",
   "reshade_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/RESHADE.zip",
+  "blinker_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/DIRECCIONALES.zip",
   "mods": [
      {
       "id": "pack_camiones_1",
