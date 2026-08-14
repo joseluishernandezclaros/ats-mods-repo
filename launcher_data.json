@@ -1,7 +1,8 @@
 {
   "launcher_version": "1.7",
-  "launcher_download_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/Launcher_Xtrink.exe",
   "deliciosos_titulo": "DELICIOSOS 1.60.1.8s",
+  "launcher_download_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/Launcher_Xtrink.exe",
+  "novedades": "• Solucionado el problema al hacer click en dispositivos con un escalado de pantalla muy grande.\n• Añadido el plugin Cabin Walk para moverte en la cabina.\n• Eliminados los motores de mas de 700hp y agregados nuevos motores.\n• Se redujo el peso de todas las cargas a maximo 50 toneladas.\n• Arreglados errores de luces en especial las licuadores.\n• El remolque de pasajeros ya no estrella en los tuneles.",
   "deliciosos_url": "https://modsfire.com/V3easpUb89585gc",
   "tutorial_url": "https://youtu.be/obMPejKPaRE?si=7pr4uaxfksfGCBjS",
   "carplay_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/CARPLAY.zip",
