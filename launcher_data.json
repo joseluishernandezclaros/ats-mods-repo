@@ -1,5 +1,5 @@
 {
-  "launcher_version": "1.6",
+  "launcher_version": "1.7",
   "launcher_download_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/Launcher_Xtrink.exe",
   "deliciosos_titulo": "DELICIOSOS 1.60.1.8s",
   "deliciosos_url": "https://modsfire.com/V3easpUb89585gc",
@@ -15,7 +15,7 @@
       "nombre": "Pack Camiones 1",
       "version": "1.0",
       "archivo_scs": "PACK_DE_CAMIONES_1.scs",
-      "md5": "e7214a73c76b278b3e300ddcf9a8d435",
+      "md5": "20a767e60cac114c4c739c43c48d9ec0",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_1.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones1.png"
     },
@@ -24,7 +24,7 @@
       "nombre": "Pack Camiones 2",
       "version": "1.0",
       "archivo_scs": "PACK_DE_CAMIONES_2.scs",
-      "md5": "cab1748f90cfa026da52e309d8e36d29",
+      "md5": "da75f98c2f6627e5516993a5f02a865d",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_2.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones2.png"
     },
@@ -33,7 +33,7 @@
       "nombre": "Pack de Buses",
       "version": "1.0",
       "archivo_scs": "PACK_DE_BUSES.scs",
-      "md5": "adc65a22a01e0f46ac1a82d27e84d24b",
+      "md5": "efc1312e2472f5efa46a60ff811cd678",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_BUSES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/buses.png"
     },
@@ -42,7 +42,7 @@
       "nombre": "Pack de Remolques",
       "version": "1.0",
       "archivo_scs": "PACK_DE_REMOLQUES.scs",
-      "md5": "7f2e4ee7c32f1129a67926e1bc381e94",
+      "md5": "3365fc59674d22790879d1d60ad0e6d9",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_REMOLQUES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/remolques.png"
     },
@@ -60,7 +60,7 @@
       "nombre": "Mini Pack de Mods",
       "version": "1.0",
       "archivo_scs": "MINI_PACK_DE_MODS.scs",
-      "md5": "3cfd4e05906026bedd68848af5f5c7b0",
+      "md5": "2a377e7a5513b9fd28c200614894310c",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/MINI_PACK_DE_MODS.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/minipack.png"
     },
