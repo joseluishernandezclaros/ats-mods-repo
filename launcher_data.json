@@ -30,15 +30,6 @@
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones2.png"
     },
     {
-      "id": "pack_buses",
-      "nombre": "Pack de Buses",
-      "version": "1.0",
-      "archivo_scs": "PACK_DE_BUSES.scs",
-      "md5": "efc1312e2472f5efa46a60ff811cd678",
-      "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_BUSES.scs",
-      "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/buses.png"
-    },
-    {
       "id": "pack_remolques",
       "nombre": "Pack de Remolques",
       "version": "1.0",
