@@ -2,7 +2,7 @@
   "launcher_version": "1.8",
   "deliciosos_titulo": "DELICIOSOS 1.60.1.8s",
   "launcher_download_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/Launcher_Xtrink.exe",
-  "novedades": "• Solucionado el problema al hacer click en dispositivos con un escalado de pantalla muy grande.\n• Añadido el plugin Cabin Walk para moverte en la cabina.\n• Eliminados los motores de mas de 735hp y agregados nuevos motores.\n• Se redujo el peso de todas las cargas a maximo 50 toneladas.\n• Arreglados errores de luces en especial las licuadores.\n• El remolque de pasajeros ya no se estrella en los tuneles.",
+  "novedades": "• Eliminado el pack de buses.\n• Arreglados los crasheos en diferentes camiones.\n• Arregladas las texturas interiores de la carezapato.\n• Arreglada la colisión frontal de la scania.\n• Los carros y dobletroques ahora aparecen en la sección de carros Ford con el fin de usar las cargas de los carros.\n• Eliminado el remolque invisible torton.\n• Agregado muñeco de XTRINK a la silla del copiloto de la mayoría de vehiculos.",
   "deliciosos_url": "https://modsfire.com/V3easpUb89585gc",
   "tutorial_url": "https://youtu.be/obMPejKPaRE?si=7pr4uaxfksfGCBjS",
   "carplay_url": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.2/CARPLAY.zip",
@@ -16,7 +16,7 @@
       "nombre": "Pack Camiones 1",
       "version": "1.0",
       "archivo_scs": "PACK_DE_CAMIONES_1.scs",
-      "md5": "20a767e60cac114c4c739c43c48d9ec0",
+      "md5": "8296ec89f2fa9abf8d651ea8dd15543f",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_1.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones1.png"
     },
@@ -25,7 +25,7 @@
       "nombre": "Pack Camiones 2",
       "version": "1.0",
       "archivo_scs": "PACK_DE_CAMIONES_2.scs",
-      "md5": "da75f98c2f6627e5516993a5f02a865d",
+      "md5": "7803c8697047281aa825c234edd918b0",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_CAMIONES_2.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/camiones2.png"
     },
@@ -34,7 +34,7 @@
       "nombre": "Pack de Remolques",
       "version": "1.0",
       "archivo_scs": "PACK_DE_REMOLQUES.scs",
-      "md5": "3365fc59674d22790879d1d60ad0e6d9",
+      "md5": "9a894d2a21a1b7e5c0893bc6ae5f1696",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_REMOLQUES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/remolques.png"
     },
@@ -70,7 +70,7 @@
       "nombre": "Pack de Skins",
       "version": "1.0",
       "archivo_scs": "PACK_DE_SKINS_Y_MODIFICACIONES.scs",
-      "md5": "2252de9ce48524889c1e5d4ed455e497",
+      "md5": "985480461a88b7b66b72cd486e3631e5",
       "url_descarga": "https://github.com/joseluishernandezclaros/ats-mods-repo/releases/download/1.3/PACK_DE_SKINS_Y_MODIFICACIONES.scs",
       "imagen_url": "https://raw.githubusercontent.com/joseluishernandezclaros/ats-mods-repo/main/PACK%20DE%20SKINS.png"
     }
